@@ -1,0 +1,35 @@
+
+body {
+    background-image: url("background_new.png");
+    background-repeat: no-repeat;
+    background-size: 1915px 990px;
+  }
+ h1{
+    font-size: 600%;
+    text-align: right;
+    margin-bottom: 0;
+    margin-top: 0;
+ }
+ h2{
+   text-align: right;
+   margin-top: 0;
+   margin-bottom: 10;
+ }
+.sidebar{
+   text-align: right;
+   margin-top: 0;
+   font-size: 200%;
+}
+.bottombar{
+   background-color: #141414;
+   padding: 15px;
+   display: flex;
+   position: absolute;
+   width: 100%;
+   left: 0;
+   bottom: 0;
+}
+p{
+   width: 100px;
+   height: 10px;
+}
