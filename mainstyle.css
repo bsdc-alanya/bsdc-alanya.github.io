@@ -1,0 +1,23 @@
+body {
+    background-image: url('alanya-branding.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+  }
+
+  a{
+    color:aliceblue;
+
+  }
+  
+.bottom{
+  background-color: #000000;
+padding: 15px;
+display: flex;
+position: absolute;
+align-self: center;
+height: 100px;
+width: 100%;
+left: 0;
+bottom: 0;
+}
