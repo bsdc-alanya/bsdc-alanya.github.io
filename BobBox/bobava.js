@@ -50,8 +50,11 @@ let switchbob = false;
 
 function BYEBOB(){
     if (switchbob) {
-        bob.innerHTML = `<a1>yes</a1s>
-        <img scr="download-removebg-preview" alt="bob">`;
+        bob.innerHTML = `<h1>yes</h1>
+        <img scr="download-removebg-preview.png" alt="bob">`;
+    } else{
+        bob.innerHTML = `<h1>no</h1>
+        <img src="download.jpg" alt="bob2">`
     }
     switchbob = !switchbob
 }
