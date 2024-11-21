@@ -1,1 +1,1 @@
-# alanya.github.io
+# bsdc-alanya.github.io
