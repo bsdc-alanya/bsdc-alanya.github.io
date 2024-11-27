@@ -105,3 +105,6 @@ footer {
 img {
   border-radius: 25px;
 }
+.sectionContainer {
+  display: flex;
+}
