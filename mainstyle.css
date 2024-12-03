@@ -49,13 +49,7 @@ section h2 {
   margin-bottom: 20px;
 }
 .project {
-  display: inline-block;
-  width: 30%;
-  margin: 15px;
-  background-color: #fff;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  border-radius: 10px;
-  overflow: hidden;
+  align-self: center;
 }
 .project img {
   width: 100%;
@@ -110,4 +104,7 @@ img {
 }
 .project {
   flex-shrink: 0;
+}
+h2 {
+  text-align: center;
 }
