@@ -1,0 +1,10 @@
+body{
+}
+nav{
+    background-color: rgb(201, 60, 60);
+    padding: 15px;
+    border-radius: 10px;
+}
+a{
+    color: rgb(0, 225, 255)
+}
